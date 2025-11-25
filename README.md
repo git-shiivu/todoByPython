@@ -6,15 +6,15 @@ It is a Python program that is use for making To-Dos, it can perform CRUD Operat
 ## How to use it?
 
 ### Step-1, Installation:
-- Install Python interpreter from a Authentic website.
-- Note - I am using Python version - 3.14.0
+- Install Python interpreter from an authentic website.
+Note - I am using Python version - 3.14.0
 
 ### Step-2, Download the program locally:
 
 #### If you have "git":
 - Perform this Command: ``git clone https://github.com/git-shiivu/todoByPython.git``
 
-#### If you have not:
+#### If you do not have "git":
 - Go to the "Code" button and left click.
 - Go to the "Download ZIP" Option and select your desired file location.
 
